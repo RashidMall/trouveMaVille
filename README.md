@@ -3,6 +3,7 @@ Trouve ma ville
 
 Les consignes
 Sur une page, prévoyez les fonctionnalités suivantes :
+
 Step 1 : Météo Afficher la météo de Toulouse (température en °C et description). Utilisez une requête vers OpenWeather.
 
 Step 2 : Adresse Récupérer la latitude et la longitude de Saint-Gaudens. Utiliser une requête vers GoogleMaps Api (pas la peine de clé API si vous ne faites pas bcp de requêtes).
